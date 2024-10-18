@@ -9,6 +9,5 @@ Implemented functionality
 * Kotlin
 * Hilt DI
 * Coroutines
-* coil
 * MVVM
 * Clean architecture
