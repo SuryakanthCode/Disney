@@ -15,7 +15,6 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import coil.compose.rememberAsyncImagePainter
 import com.example.sampleapplicaiton.presentation.ui.CharacterList
 import com.example.sampleapplicaiton.presentation.viewmodel.DisneyViewModel
 import com.example.sampleapplicaiton.ui.theme.SampleApplicaitonTheme
@@ -32,7 +31,3 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
-//
-//dharanipathy.ramalingam@toyotaconnected.co.in
-//
