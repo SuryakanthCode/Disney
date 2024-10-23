@@ -21,7 +21,7 @@ import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
 import coil.compose.rememberImagePainter
 import com.example.sampleapplicaiton.R
-import com.example.sampleapplicaiton.data.model.DisneyData
+import com.example.sampleapplicaiton.domain.model.DisneyData
 import com.example.sampleapplicaiton.presentation.viewmodel.DisneyViewModel
 
 @Composable

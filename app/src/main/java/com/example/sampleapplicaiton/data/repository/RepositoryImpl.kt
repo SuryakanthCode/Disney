@@ -1,6 +1,6 @@
 package com.example.sampleapplicaiton.data.repository
 
-import com.example.sampleapplicaiton.data.model.DisneyData
+import com.example.sampleapplicaiton.domain.model.DisneyData
 import com.example.sampleapplicaiton.data.remote.DisneyApi
 import com.example.sampleapplicaiton.domain.repository.DisneyRepository
 import javax.inject.Inject
